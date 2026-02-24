@@ -1,0 +1,36 @@
+>Introduza (semente, probabilidade (1 em N), tamanho ate 10, numero de drones): 
+>Mapa inicial de informacao:
+>    A B C D
+>  1 ? ? ? ?
+>  2 ? ? ? ?
+>  3 ? ? ? ?
+>  4 ? ? ? ?
+>Dia 1, lancar drones (#4): 
+>Drone 3 abatido.
+>    A B C D
+>  1 . . ! !
+>  2 . . ! !
+>  3 . . . .
+>  4 ? . . .
+>Dia 2, lancar drones (#4): 
+>Drone 1 abatido.
+>Drone 2 abatido.
+>Drone 3 abatido.
+>    A B C D
+>  1 . . ! !
+>  2 . . . !
+>  3 . . . .
+>  4 . . . .
+>Dia 3, lancar drones (#2): 
+>    A B C D
+>  1 . . ! !
+>  2 . . . !
+>  3 . . . .
+>  4 . . . .
+>Dia 4, lancar drones (#3): 
+>    A B C D
+>  1 . . . .
+>  2 . . . .
+>  3 . . . .
+>  4 . . . .
+>Duracao da campanha: 4 dias
